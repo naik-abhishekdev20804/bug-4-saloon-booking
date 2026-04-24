@@ -17,5 +17,5 @@ The same shop can be **registered more than once** (same name or details). Nothi
 **Bug 5 — Salon contact number**  
 The salon registration **phone/contact field** is not checked for real phone rules; it can **save letters and other non-numeric text** as the number.
 
-**Bug 6 — No delete for a added shop**  
-You can add a new salon, but the app has **no button or way to remove or delete** a shop from the list.
+**Bug 6 — No edit or delete for a added shop**  
+You can add a new salon, but the app has **no button or way to edit or remove or delete** a shop from the list.
